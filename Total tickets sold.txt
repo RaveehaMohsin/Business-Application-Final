@@ -1,0 +1,15 @@
+Thai,1
+Emirates,2
+qatar,1
+Emirates,2
+southwest,2
+thai,2
+thai,2
+thai,2
+Qatar,2
+qatarairways,2
+qatarairways,2
+qatar,2
+qatar,2
+qatar,2
+thai,2

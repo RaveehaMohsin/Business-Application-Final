@@ -1,0 +1,6 @@
+Islamabad,Hunza
+#########,#########
+turkey,canada
+saudiaArab,dubai
+lahore,dubai
+bangkok,australia

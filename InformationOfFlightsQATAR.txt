@@ -1,0 +1,9 @@
+lah,kar
+lahore,maldives
+lahore,southkorea
+Lahore,dubai
+thailand,australia
+karachi,dubai
+lahore,dubai
+bangkok,australia
+dubai,lahore

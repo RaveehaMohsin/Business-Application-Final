@@ -1,0 +1,15 @@
+Fatima,17,1,Thai
+Sara,19,2,Emirates
+zara,27,1,qatar
+Mohsin,40,2,Emirates
+Tayyaba,19,2,southwest
+kabir,19,2,thai
+Kabir,19,2,thai
+Raveeha,19,2,thai
+Fatima,20,2,Qatar
+Hania,20,2,qatarairways
+Ali,20,2,qatarairways
+hania,30,2,qatar
+hashir,23,2,qatar
+hina,23,2,qatar
+zainab,1,2,thai

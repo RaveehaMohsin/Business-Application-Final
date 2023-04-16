@@ -1,0 +1,4 @@
+lahore,bangkok
+karachi,thailand
+bahrain,istanbul
+lahore,dubai
